@@ -11,7 +11,7 @@ A simple Terminal Chat Server cloning " WhatsApp Group Behaviour " with some com
   
 - prefix for whisper msgs "@" like slack or discord mentions
 - updates /list on every entry or disconnect
-- error msgs
+- error msgs (like trying to /w a user that isnt in /list in other words a user that's not connected)
 
 ** Commands **
 - /list - lists all connected users
