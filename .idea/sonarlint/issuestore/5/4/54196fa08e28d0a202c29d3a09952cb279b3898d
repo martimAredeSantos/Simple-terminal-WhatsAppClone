@@ -1,0 +1,24 @@
+
+g	java:S112r"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8êØı¸1
+L
+java:S3740>"/Provide the parametrized type for this generic.(Î¼åù8ëØı¸1
+v
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¦Ğàñ8ìØı¸1
+v
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(šÿ8ìØı¸1
+z	java:S135@"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ8ìØı¸1
+j
+java:S2259^"MA "NullPointerException" could be thrown; "whisperReceiver" is nullable here.(Œ²”‚8Ê€Üı¸1
+D
+java:S2189""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ8öØı¸1
+L	java:S106"+Replace this use of System.out by a logger.(âúçµúÿÿÿÿ8ùØı¸1
+L	java:S106"+Replace this use of System.out by a logger.(—ÅÙşÿÿÿÿ8ÿØı¸1
+o
+java:S3776."RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(“–ış8†Øı¸1
+L	java:S106:"+Replace this use of System.out by a logger.(ışÂ—şÿÿÿÿ8ŒØı¸1
+G	java:S106H"+Replace this use of System.out by a logger.(ëæêã8Øı¸1
+G	java:S106Z"+Replace this use of System.out by a logger.(ò„¹ë8Øı¸1
+G	java:S106o"+Replace this use of System.out by a logger.(û…šµ8“Øı¸1
+G	java:S106v"+Replace this use of System.out by a logger.(›ûÑÎ8•Øı¸1
+L
+java:S2093/"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8–Øı¸1
