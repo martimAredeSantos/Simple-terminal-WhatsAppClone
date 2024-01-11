@@ -16,9 +16,9 @@ public class TCPserver {
     HashMap<Socket, String> clientTable;
     HashMap<String, Socket> displayNameTable;
 
-    public TCPserver() throws IOException {
+    public TCPserver(int portNum) throws IOException {
         this.portNum = portNum;
-        System.out.println("== WatsUP server online on PORT : " + portNum + " ==");
+        System.out.println("== WhatsApp-Terminal server online on PORT : " + portNum + " ==");
 
         serverSocket = new ServerSocket(portNum);
         this.clientTable = new HashMap<Socket, String>();

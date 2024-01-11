@@ -4,6 +4,6 @@ import java.io.IOException;
 
 public class Main {
     public static void main(String[] args) throws IOException {
-        TCPserver myServer = new TCPserver();
+        TCPserver myServer = new TCPserver(9898);
     }
 }
