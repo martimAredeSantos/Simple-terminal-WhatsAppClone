@@ -1,6 +1,6 @@
 # Terminal WhatsApp Clone
 
-A simple Terminal Chat Server cloning " WhatsApp Ground Behaviour " with some commands and features similar to old internet Chat Rooms
+A simple Terminal Chat Server cloning " WhatsApp Group Behaviour " with some commands and features similar to old internet Chat Rooms
 
 ![1](https://github.com/martimAredeSantos/Simple-terminal-WhatsAppClone/assets/147712420/5735a234-1eee-4c4b-83d1-e3e793de6931)
 
